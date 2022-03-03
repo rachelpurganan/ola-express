@@ -1,0 +1,23 @@
+{
+  "name": "ola-express",
+  "version": "1.0.0",
+  "description": "Import this repo to create a starting point for Node.js projects in repl.it, https://replit.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachelpurganan/ola-express.git"
+  },
+  "keywords": [],
+  "author": "Rachel Purganan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rachelpurganan/ola-express/issues"
+  },
+  "homepage": "https://github.com/rachelpurganan/ola-express#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
